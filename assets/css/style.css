@@ -14,12 +14,12 @@ body {
 }
 
 a {
-  color: #5777ba;
+  color: #1d70a0;
   text-decoration: none;
 }
 
 a:hover {
-  color: #7b94c9;
+  color: #255ea8;
   text-decoration: none;
 }
 
@@ -44,7 +44,7 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 50px;
   right: 15px;
   bottom: 15px;
-  background: #5777ba;
+  background: #1ab1d0;
   color: #fff;
   transition: display 0.5s ease-in-out;
   z-index: 99999;
@@ -97,7 +97,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .logo h1 a, #header .logo h1 a:hover {
-  color: #5777ba;
+  color: #1ab1d0;
   text-decoration: none;
 }
 
@@ -139,7 +139,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu .get-started a {
-  background: #5777ba;
+  background: #0a58ca;
   color: #fff;
   border-radius: 50px;
   margin: 0 15px;
@@ -363,7 +363,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 48px;
   font-weight: 500;
   line-height: 56px;
-  color: #5777ba;
+  color: #23cbec;
   font-family: "Poppins", sans-serif;
 }
 
