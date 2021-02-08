@@ -97,7 +97,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .logo h1 a, #header .logo h1 a:hover {
-  color: #1ab1d0;
+  color: #4043E1;
+  font-weight: bold;
   text-decoration: none;
 }
 
@@ -363,7 +364,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 48px;
   font-weight: 500;
   line-height: 56px;
-  color: #23cbec;
+  color: #4043E1;
   font-family: "Poppins", sans-serif;
 }
 
@@ -374,8 +375,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .download-btn {
-  font-family: "Raleway", sans-serif;
-  font-weight: 500;
+  font-weight: bold;
   font-size: 15px;
   display: inline-block;
   padding: 8px 24px 10px 46px;
@@ -962,6 +962,12 @@ section {
   width: 100%;
 }
 
+
+.main-email-form{
+  margin: auto;
+  margin-top: 1.5rem;
+}
+
 .contact .php-email-form .validate {
   display: none;
   color: red;
@@ -1084,12 +1090,12 @@ section {
 /*--------------------------------------------------------------
 # Footer
 --------------------------------------------------------------*/
-#footer {
+footer {
   background: #fff;
   padding: 0 0 30px 0;
   color: #47536e;
   font-size: 14px;
-  background: #eff2f8;
+  background: #bec5ce;
 }
 
 #footer .footer-newsletter {
