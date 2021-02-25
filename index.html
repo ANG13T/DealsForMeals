@@ -227,6 +227,27 @@
       </div>
     </section><!-- End Details Section -->
 
+    <!-- Donation Section -->
+    <div class="container">
+      <h1 class="text-center">donate.js</h1>
+      <div class="donate"></div>
+      <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+          <input type="hidden" name="cmd" value="_donations">
+          <input type="hidden" name="business" value="bizauionica@gmail.com">
+          <input type="hidden" name="lc" value="US">
+          <input type="hidden" name="amount">
+          <input type="hidden" name="no_note" value="0">
+          <input type="hidden" name="cn" value="Add special instructions to the seller:">
+          <input type="hidden" name="no_shipping" value="2">
+          <input type="hidden" name="currency_code" value="USD">
+          <input type="hidden" name="bn" value="PP-DonationsBF:btn_donateCC_LG.gif:NonHosted">
+          <center>
+              <button class="btn bg-orange">Donate</button>
+          </center>
+      </form>
+  </div>
+  <!-- End Donation Section -->
+
     <!-- ======= Gallery Section ======= -->
     <!-- <section id="gallery" class="gallery">
       <div class="container">
@@ -335,8 +356,6 @@
 
       </div>
     </section><!-- End Testimonials Section -->
-
-    <div id="messages-container"></div>
 
     <!-- ======= Frequently Asked Questions Section ======= -->
     <section id="faq" class="faq section-bg">
