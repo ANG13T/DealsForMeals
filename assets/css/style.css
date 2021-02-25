@@ -1284,6 +1284,23 @@ footer {
     cursor: pointer;
 }
 
+.donate-button-container{
+  width: 100%;
+  text-align: center;
+}
+
+.donate-button{
+    margin-top: 2rem;
+    width: 10rem;
+    height: 3rem;
+    font-size: 1.5rem;
+    border: 5px solid #0a58ca;
+    text-align: center;
+    background-color: #0a58ca;
+    color: white;
+    border-radius: 3px;
+}
+
 .donate li:hover {
     opacity: 1;
 }
