@@ -1257,6 +1257,10 @@ footer {
   color: #47536e;
 }
 
+#messages-container{
+  
+}
+
 @media (max-width: 768px) {
   #footer .copyright, #footer .credits {
     float: none;
