@@ -1303,8 +1303,7 @@ footer {
 }
 
 .donate li:last-of-type {
-    height: 30px;
-    padding-top: 13px;
+    padding: 10px !important;
 }
 
 .donate ul {
