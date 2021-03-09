@@ -13,6 +13,8 @@ body {
   color: #585a61;
 }
 
+
+
 a {
   color: #1d70a0;
   text-decoration: none;
@@ -433,7 +435,7 @@ h1, h2, h3, h4, h5, h6 {
 
 @media (max-width: 575px) {
   #hero .hero-img img {
-    width: 80%;
+    width: 60%;
   }
 }
 
@@ -553,7 +555,7 @@ section {
 
 @media (max-width: 667px) {
   .features .image img {
-    max-width: 100%;
+    max-width: 60%;
   }
 }
 
