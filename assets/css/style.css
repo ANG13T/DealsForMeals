@@ -1286,6 +1286,12 @@ footer {
     cursor: pointer;
 }
 
+@media only screen and (max-width: 600px) {
+  .donate li {
+    width: 30%;
+  }
+}
+
 .donate-button-container{
   width: 100%;
   text-align: center;
